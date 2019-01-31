@@ -2,4 +2,8 @@
     <string name="app_name">fnGlogin</string>
     <string name="facebook_app_id">295241437861196</string>
     <string name="fb_login_protocol_scheme">fb204127990172423</string>
+    <string name="todo">TODO</string>
+    <string name="username">Username</string>
+    <string name="email_address">Email Address</string>
+    <string name="signout">Signout</string>
 </resources>
